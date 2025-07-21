@@ -11,10 +11,10 @@
 - 🎓 Pursuing **B.Tech in Computer Science** from Jaypee University of Information Technology
 - 🔭 Currently building **Lunchify App** — A smart lunch & coupon management app for employees (Flutter + Firebase)
 - 🌱 Learning full-stack development (MERN) and AI tools
-- 💬 Ask me about **Flutter**, **Firebase**, **C++**, **Machine Learning**, or **MERN Stack**
+- 💬 Ask me about **Flutter**, **Firebase**, **C++** or **MERN Stack**
 - 👯 I’m looking to collaborate on real-world projects that impact people
 - 📫 Reach me at: **ajaychauhan08122000@gmail.com**
-- 💼 Available for internships & freelance work in **Android / Web Development**
+- 💼 Available for internships & freelance work in **App / Web Development**
 
 ---
 
@@ -50,7 +50,6 @@
 > An innovative lunch coupon, feedback & fruit preference app for SJVN employees. Includes:
 - 🍽️ Daily menu setup (Admin)
 - 🍌 Fruit lunch booking before 11 AM
-- 📊 HR Dashboard with real-time analytics
 - 🔐 Employee & Admin login
 > Built with: `Flutter` + `Firebase`
 
@@ -59,7 +58,7 @@
 ### 📣 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajaychauhan0008/" target="_blank">
+  <a href="https://www.linkedin.com/in/ajay-chauhan-25a727205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AjayChauhan-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ajaychauhan08122000@gmail.com">
