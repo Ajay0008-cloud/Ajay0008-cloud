@@ -35,15 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajay0008-cloud&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay0008-cloud&layout=compact&theme=tokyonight" height="180px"/>
-</div>
-
----
-
 ### 💼 Featured Projects
 
 #### 🔖 [Lunchify 🍽️](https://github.com/Ajay0008-cloud/lunchify-app)
